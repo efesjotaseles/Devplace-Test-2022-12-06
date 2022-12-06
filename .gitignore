@@ -5,16 +5,16 @@
 
 #Front
 # dependencies
-/frontside/public
-/frontside/node_modules
+/front/public
+/front/node_modules
 .pnp
 .pnp.js
 
 # testing
-/frontside/coverage
+/front/coverage
 
 # production
-/frontside/build
+/front/build
 
 # misc
 .DS_Store
